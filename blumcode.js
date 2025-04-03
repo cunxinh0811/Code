@@ -77,5 +77,4 @@
   "Blum Latest Updates": "BLUMGOESAI",
   "Blum's TGE teaser": "TGETHISSPRING",
   "Limit Orders at Blum": "LIMITORDERSLIVE"
-  
 }
