@@ -70,7 +70,7 @@
   "S1 Weekly Giveaway": "GIVEAWAY",
   "Chartered Cities Explained": "PROSPERA",
   "Season 1 First Giveaway": "BLUMCHATS",
-  "Fake AI vs. Real AI": "AICOIN",
+  "Fake AI vs. Real AI": "AI COIN",
   "S1 Weekly Giveaway": "GIVEAWAY",
   "How to Work at Blum?": "GROWWITHBLUM",
   "Blum's TGE teaser": "TGETHISSPRING",
