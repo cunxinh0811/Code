@@ -76,5 +76,6 @@
   "Blum's TGE teaser": "TGETHISSPRING",
   "Blum Latest Updates": "BLUMGOESAI",
   "Blum's TGE teaser": "TGETHISSPRING",
-  "Limit Orders at Blum": "LIMITORDERSLIVE"
+  "Limit Orders at Blum": "LIMITORDERSLIVE",
+  "Interview with Vladimir Smerkis": "TRADEWITHBLUM"
 }
